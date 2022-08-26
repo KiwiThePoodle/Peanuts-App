@@ -1,6 +1,6 @@
 Welcome to Peanuts, the allergy monitoring app!
 
-This app was created by a team of 4 undergraduate students at JHU. A special challenge in designing this app was to find a humanitarian or social justice twist for our app idea. Thus, we decided to create an app where users can track the allergens/dietary restrictions that each food item may contain. Users can also form groups for social events and create a meal plan that every attendee can enjoy!
+This app was created by a team of 4 undergraduate students at JHU. A special challenge in designing this app was to find a humanitarian twist for our app idea. We decided to create an app where users can track the allergens/dietary restrictions that each food item may contain to help prevent potential mishaps. Users can also form groups for social events and create a meal plan that every attendee can enjoy!
 
 The app was developed through two sprint cycles with weekly meetings to communicate progress and tasks moving forward. Meetings ensured that all members were on the same page and were able to aid each other in problem-solving and debugging. The app is complete with toasts and error handling for invalid inputs. User changes are immediately updated in the database and in the app.
 
